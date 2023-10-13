@@ -47,7 +47,9 @@ All the datasets are created starting from examples written by experts. For each
 
 ***
 
+## Contact
+If you have any questions or would like to discuss my work further, please don't hesitate to contact me at rayane.ghilene@ensea.fr.
 
 
 ## License
-These resources can be used for research purposes and cannot be redistributed. Please cite the corresponding publication if you use any dataset.
+These resources can be used for research purposes and cannot be redistributed. Please cite the corresponding publication when publishing.
