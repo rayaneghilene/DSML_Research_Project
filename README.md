@@ -19,12 +19,14 @@ The repository contains different methods used for this purpose such as the fine
 - [Fine-tuning of a GPT-2 Model](/DSML_Research_Project/RsponseToExtremistNarrativesGeneration.ipynb)
 
 ### Hate speech Classification
+[Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
 
 I started by Training a model on Hate speech Classification, the model calculates the probability of a text's label and returns the highest one.
 ![Prompt](https://github.com/rayaneghilene/CONAN/blob/master/Images/Fichier%20210.png)
 
 ### Fine-tuning of a GPT-2 Model
 
+[Fine-tuning of a GPT-2 Model](/DSML_Research_Project/RsponseToExtremistNarrativesGeneration.ipynb)
 This method consisted of fine-tuning a GPT-2 Model for counter-narratives generation for hate speech. it was trained on the multitarget CONAN Dataset.
 Here's an example prompt that the model was able to generate
 
