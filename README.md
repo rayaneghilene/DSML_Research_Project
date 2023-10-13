@@ -15,9 +15,8 @@ The repository contains different methods used for this purpose such as the fine
 
 ## Files 
 
-
-- [Hate speech Classification](DataPreprocessingKeras.ipynb)
-- [Fine-tuning of a GPT-2 Model](RsponseToExtremistNarrativesGeneration.ipynb)
+- [Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
+- [Fine-tuning of a GPT-2 Model](/DSML_Research_Project/RsponseToExtremistNarrativesGeneration.ipynb)
 
 ### Hate speech Classification
 
