@@ -30,6 +30,9 @@ I started by Training a model on Hate speech Classification, the model calculate
 I tried a Random Forest Classifier to test its performance on the data and here are the results
 
 
+![Test results](/Images/rfc_results10.png)
+
+
 
 ### Fine-tuning of a GPT-2 Model
 
