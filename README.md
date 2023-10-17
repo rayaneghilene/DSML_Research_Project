@@ -16,13 +16,20 @@ The repository contains different methods used for this purpose such as the fine
 ## Files 
 
 - [Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
+- [Random Forest Hatespeech classification](/DSML_Research_Project/Random_forest_classifier.ipynb)
 - [Fine-tuning of a GPT-2 Model](/DSML_Research_Project/GPT2-fine-tuning.ipynb)
 
 ### Hate speech Classification
-[Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
+#### 1. [Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
 
 I started by Training a model on Hate speech Classification, the model calculates the probability of a text's label and returns the highest one.
 ![Prompt](https://github.com/rayaneghilene/CONAN/blob/master/Images/Fichier%20210.png)
+
+#### 2. [Random Forest Hate speech classification](/DSML_Research_Project/Random_forest_classifier.ipynb)
+
+I tried a Random Forest Classifier to test its performance on the data and here are the results
+
+
 
 ### Fine-tuning of a GPT-2 Model
 
