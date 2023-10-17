@@ -16,22 +16,50 @@ The repository contains different methods used for this purpose such as the fine
 ## Files 
 
 - [Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
-- [Random Forest Hatespeech classification](/DSML_Research_Project/Random_forest_classifier.ipynb)
+  1. [Random Forest Hatespeech classification](/DSML_Research_Project/Random_forest_classifier.ipynb)
+  2. [SVM Hate speech classification](/DSML_Research_Project/SVM_classification.ipynb)
+  3. [Multi_nomial_Bayes Hate speech classification](/DSML_Research_Project/Multinomial_naive_Bayes%20(1).ipynb)
+  4. [Gradient_boosting Hate speech classification](/DSML_Research_Project/Gradient_boosting.ipynb)
 - [Fine-tuning of a GPT-2 Model](/DSML_Research_Project/GPT2-fine-tuning.ipynb)
 
 ### Hate speech Classification
-#### 1. [Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
+#### [Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
 
 I started by Training a model on Hate speech Classification, the model calculates the probability of a text's label and returns the highest one.
 ![Prompt](https://github.com/rayaneghilene/CONAN/blob/master/Images/Fichier%20210.png)
 
-#### 2. [Random Forest Hate speech classification](/DSML_Research_Project/Random_forest_classifier.ipynb)
+Here are the models i tried:
+
+#### 1. [Random Forest Hate speech classification](/DSML_Research_Project/Random_forest_classifier.ipynb)
 
 I tried a Random Forest Classifier to test its performance on the data and here are the results
 
 
 ![Test results](/Images/rfc_results10.png)
 
+#### 2. [SVM Hate speech classification](/DSML_Research_Project/SVM_classification.ipynb)
+
+Then I tried a support vector Machine(SVM) to test its performance on the data and here are the results
+
+
+![Test results](/Images/svm_results10.png)
+
+
+
+#### 3. [Multi_nomial_Bayes Hate speech classification](/DSML_Research_Project/Multinomial_naive_Bayes%20(1).ipynb)
+
+Then I tried a Multinomial Naive Bayes to test its performance on the data and here are the results
+
+
+![Test results](/Images/Nb_results10.png)
+
+
+#### 4. [Gradient_boosting Hate speech classification](/DSML_Research_Project/Gradient_boosting.ipynb)
+
+Then I tried a Gradient Boosting to test its performance on the data and here are the results
+
+
+![Test results](/Images/xgb_results10.png)
 
 
 ### Fine-tuning of a GPT-2 Model
