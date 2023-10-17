@@ -20,6 +20,7 @@ The repository contains different methods used for this purpose such as the fine
   2. [SVM Hate speech classification](/DSML_Research_Project/SVM_classification.ipynb)
   3. [Multi_nomial_Bayes Hate speech classification](/DSML_Research_Project/Multinomial_naive_Bayes%20(1).ipynb)
   4. [Gradient_boosting Hate speech classification](/DSML_Research_Project/Gradient_boosting.ipynb)
+  5. [Logistic Regression Hate speech classification](/DSML_Research_Project/Logistic_regression.ipynb)
 - [Fine-tuning of a GPT-2 Model](/DSML_Research_Project/GPT2-fine-tuning.ipynb)
 
 ### Hate speech Classification
@@ -61,6 +62,13 @@ Then I tried a Gradient Boosting to test its performance on the data and here ar
 
 ![Test results](/Images/xgb_results10.png)
 
+
+#### 5. [Logistic Regression Hate speech classification](/DSML_Research_Project/Logistic_regression.ipynb)
+
+Then I tried Logistic Regression to test its performance on the data and here are the results
+
+
+![Test results](/Images/LR_results10.png)
 
 ### Fine-tuning of a GPT-2 Model
 
