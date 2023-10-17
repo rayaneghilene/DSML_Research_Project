@@ -16,7 +16,7 @@ The repository contains different methods used for this purpose such as the fine
 ## Files 
 
 - [Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
-- [Fine-tuning of a GPT-2 Model](/DSML_Research_Project/RsponseToExtremistNarrativesGeneration.ipynb)
+- [Fine-tuning of a GPT-2 Model](/DSML_Research_Project/GPT2-fine-tuning.ipynb)
 
 ### Hate speech Classification
 [Hate speech Classification](/DSML_Research_Project/MultiClassConan.ipynb)
@@ -26,7 +26,8 @@ I started by Training a model on Hate speech Classification, the model calculate
 
 ### Fine-tuning of a GPT-2 Model
 
-[Fine-tuning of a GPT-2 Model](/DSML_Research_Project/RsponseToExtremistNarrativesGeneration.ipynb)
+[Fine-tuning of a GPT-2 Model](/DSML_Research_Project/GPT2-fine-tuning.ipynb)
+
 This method consisted of fine-tuning a GPT-2 Model for counter-narratives generation for hate speech. it was trained on the multitarget CONAN Dataset.
 Here's an example prompt that the model was able to generate
 
